@@ -48,3 +48,15 @@ Boas praticas de CSS:
 * Monte sua estrutura de bloco
   * Utilize de containers quando possível para ter agilidade e alinhamento
 * Crie seus botões e trabalhe a parte grafica.
+
+<h4>4º passo</h4>
+
+* Ajustar responsividade e testar caminhos.
+
+
+
+O que ainda farei nesse projeto:
+
+1- Aplicar funcionalidade dos botões
+
+2- Reformular a temática para uso industrial e/ou comercial
