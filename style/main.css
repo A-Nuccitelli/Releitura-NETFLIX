@@ -8,10 +8,11 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/*Elementos base */
 body {
     background: var(--preta);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 header .container {
@@ -35,4 +36,18 @@ header nav a{
 
 header nav a:hover{
     color: #fff;
+}
+
+/*filmel principal */
+.filme-principal {
+    font-size: 14px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/Godzilla\ vs\ Kong.jpg);
+    
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
 }
