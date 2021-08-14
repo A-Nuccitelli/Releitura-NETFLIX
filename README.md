@@ -1,5 +1,9 @@
 <h1>Projeto Releitura NETFLIX</h1>
 
+link para visualização
+
+https://a-nuccitelli.github.io/Projeto-NETFLIX/index.html
+
 <h3>Passo a passo do desenvolvimento</h3>
 
 <h4>1º Passo</h4>
