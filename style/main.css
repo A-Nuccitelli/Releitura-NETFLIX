@@ -41,13 +41,47 @@ header nav a:hover{
 /*filmel principal */
 .filme-principal {
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/Godzilla\ vs\ Kong.jpg);
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/Godzilla\ vs\ Kong1.jpg);
+    background-position:center;
     
-    height: 400px;
-    background-size: cover;
 
+    height: 700px;
+    background-size:cover;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-self: flex-start;
+}
+
+.filme-principal .titulo{
+    margin-bottom: 5%;
+    font-size: 35px;
+}
+
+.filme-principal .descricao {
+    margin-bottom: 5%;
+}
+
+.botao {
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    color: white;
+
+    padding: 1% 4%;
+    margin-right: 3%;
+    font-size: 12px;
+    font-family:cursive, Times;
+
+    cursor: pointer;
+    transition: .4s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.botao i{
+    margin-right: 3px;
 }
