@@ -43,3 +43,8 @@ Boas praticas de CSS:
 
   ​	}
 
+<h4>3º passo</h4>
+
+* Monte sua estrutura de bloco
+  * Utilize de containers quando possível para ter agilidade e alinhamento
+* Crie seus botões e trabalhe a parte grafica.
